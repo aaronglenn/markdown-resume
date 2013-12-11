@@ -29,24 +29,25 @@ Mac was just a bad memory. ~ 10 years
 
 1. Ruby
 1. Rails
-1. PHP
-1. JSP
-1. HTML
-1. HAML
-1. CSS
-1. Sass
+1. Rspec
 1. Javascript
 1. Coffeescript
+1. Jasmine
+1. CSS
+1. Sass
+1. Compass
+1. HTML
+1. Haml
+1. Audio/Video
 1. Jquery
 1. Backbone
 1. React
 1. MySql
-1. Redis
 1. Memcached
-1. Git
+1. Redis
+1. CVS
 1. SVN
-1. OS X
-1. Linux
+1. Git
 
 ------
 
