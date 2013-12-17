@@ -1,7 +1,7 @@
 # Aaron Glenn
 ## Senior Web Engineer
 
-> [Download PDF](resume.pdf)  
+> [Download PDF](aaron-glenn.pdf)  
 
 ------
 
@@ -14,14 +14,17 @@ Passionate, full stack web engineer with a solid design aethestic who seeks to b
 ### Skills {#skills}
 
 * Ruby & Rails
-  : Senior level Rubyist. Actively using Rails since pre-1.0, including ecommerce and servers/deployments ~ 8 years
+  : Senior level Rubyist. Actively using Rails since pre-1.0, including
+ecommerce and servers/deployments  
+  ~ 8 years
 
-* UI Dev/Design
-  : Senior front end engineer. Coding JS, CSS & HTML since before IE for
-Mac was just a bad memory. ~ 10 years
+* JavaScript & CSS
+  : Senior front end engineer. Coding JS, CSS & HTML since before Mac IE
+was just a bad memory.  
+  ~ 10 years
 
 * Communication
-  : Proven ability to lead and manage a wide variety of projects in team and independent situations.
+  : Proven ability to lead and manage a wide variety of projects in both team and independent situations.
 
 -------
 
@@ -58,7 +61,7 @@ Mac was just a bad memory. ~ 10 years
     __2011-Present__
 
     Architect, develop and scale a high traffic/availability social
-video api/platform
+video api/platform and web/mobile experience
 
 
     #### Summary of accomplishments:
@@ -128,6 +131,19 @@ projects
 Audio
     * Mobile Design & Development
 
+
+------
+
+### Education {#education}
+
+* Bachelor of Commerce
+  : University of Lethbridge
+
+* Multimedia Certificate
+  : AMTC Calgary, Canada
+
+* 15yrs Web Experience
+  : Online/Books/Conferences
 
 ------
 

@@ -147,7 +147,9 @@ ol li:nth-child(1) {
 }
 
 dl {
-    display: inline-block;
+    float:left;
+    display: block;
+    /*display: inline-block;*/
     width: 75%;
     margin: 0;
     padding: 0;
