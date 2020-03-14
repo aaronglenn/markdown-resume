@@ -59,12 +59,14 @@ was just a bad memory.
     #### Summary of accomplishments:
 
     * Led all technology for rapidly growing organization (100 to 1000 employees in 1 year)
-    * Implemented ERP solution across paper driven process for 700+ users
+    * Implemented ERP solution across paper driven processes for 700+ users
     * Launched over 6 Unique Localized Brand Sites using variety of technologies
-    * Managed large, modern Microsoft/Azure/O365 cloud infrastructure
+    * Managed enterprise-level, modern Microsoft/Azure/O365 cloud infrastructure
     * Planned & budgeted multi-million dollar initiatives
     * Migrated from ADP to Workday across the organization for payroll, performance & recruitment
-    * Maintained compliant security infrastructure including petabytes of data
+    * Researched, planned & oversaw PIM implementation for thousands of SKUs
+    * Maintained & re-implemented complex surveillance infrastructure including petabytes of data across multiple physical locations
+    * Built & launched integrated Health Canada compliant medical e-commerce solution
     * Directed CyberSecurity for organization
 
 
