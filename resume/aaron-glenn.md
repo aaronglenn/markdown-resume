@@ -1,64 +1,94 @@
 # Aaron Glenn
-## Senior Web Engineer
+## Technology Leader
 
-> [Download PDF](aaron-glenn.pdf)  
+> [Download PDF](aaron-glenn.pdf)
 
 ------
 
 ### Profile {#profile}
 
-Passionate, full stack web engineer with a solid design aethestic who seeks to be challenged by exploring new technologies to create great work that people use and genuinely enjoy.
+Passionate technology leader with a solid design aethestic who seeks to be challenged by exploring innovative tech to create great work that people use and genuinely enjoy.
 
 ------
 
 ### Skills {#skills}
 
-* Ruby & Rails
+* Software Development
   : Senior level Rubyist. Actively using Rails since pre-1.0, including
-ecommerce and servers/deployments  
-  ~ 8 years
+ecommerce and servers/deployments
+  : Advocate for industry best practices (TDD, Pairing) and pragmatic progression of current technologies
+  ~ 12 years
 
-* JavaScript & CSS
+* User Experience
   : Senior front end engineer. Coding JS, CSS & HTML since before Mac IE
-was just a bad memory.  
-  ~ 10 years
+was just a bad memory.
+  : Enjoy working towards the most simple, intuitive solution to a given challenge via clean design and thoughtful UX
+  ~ 20 years
 
-* Communication
+* Leadership
   : Proven ability to lead and manage a wide variety of projects in both team and independent situations.
+  : Strong product vision, and ability to work with key stakeholders to move from requirements to reality
 
 -------
 
-### Tech {#technical}
+### Enjoy {#technical}
 
-1. Ruby
-1. Rails
-1. Rspec
-1. Javascript
-1. Coffeescript
-1. Jasmine
-1. CSS
-1. Sass
-1. Compass
-1. HTML
-1. Haml
-1. Audio/Video
-1. Jquery
-1. Backbone
-1. React
-1. MySql
-1. Memcached
-1. Redis
-1. CVS
-1. SVN
-1. Git
+1. Open Source Software
+1. Ruby/Rails/Elixir/PHP/Node
+1. Javascript/CSS/Sass
+1. HTML/Web Standards
+1. Agile Patterns
+1. Performance Tuning
+1. Good Commit Messages
+1. Relational Databases
+1. Using The Right Tool
+1. Striving For Simplicity
+1. Mutual Respect
+1. Clear Communication
 
 ------
 
 ### Work {#work}
 
+  Sundial Growers
+  : CIO
+    __2019-Present__
+
+    Lead IT & Software at Licensed Cannabis Producer (1000+ Employees)
+
+    #### Summary of accomplishments:
+
+    * Led all technology for rapidly growing organization (100 to 1000 employees in 1 year)
+    * Implemented ERP solution across paper driven process for 700+ users
+    * Launched over 6 Unique Localized Brand Sites using variety of technologies
+    * Managed large, modern Microsoft/Azure/O365 cloud infrastructure
+    * Planned & budgeted multi-million dollar initiatives
+    * Migrated from ADP to Workday across the organization for payroll, performance & recruitment
+    * Maintained compliant security infrastructure including petabytes of data
+    * Directed CyberSecurity for organization
+
+
+  AppColony
+  : CTO
+    __2015-2019__
+
+    Lead technology at hybrid Product/Agency software company for clients such as Hockey Canada, Lee Valley Tools and ADP (Shift Management)
+
+
+    #### Summary of accomplishments:
+
+    * Provided leadership and vision for the Makeshift product across web/mobile/api
+    * Analyzed and solved scaling issues under load and pre-existing constraints
+    * Ensured code quality standards and advocated for simplicity in architecture
+    * Optimized and tuned existing codebase(s) for new usecases
+    * Managed &amp; coordinated cross functional teams to deliver features
+    * Built up &amp; supported multi-location teams and client relationships
+    * Research &amp; Development / Prototyping
+
+
   Tout Industries
   : Principal Engineer
-    __2011-Present__
+    __2011-2015__
 
     Architect, develop and scale a high traffic/availability social
 video api/platform and web/mobile experience
@@ -67,7 +97,7 @@ video api/platform and web/mobile experience
     #### Summary of accomplishments:
 
     * Architected scalable services based platform & oauth api
-    * Ruby On Rails (3-4) application development 
+    * Ruby On Rails (3-4) application development
     * Rich clientside web application using
 Backbone/React/Haml/Sass/Coffeescript
     * Advanced HTML5 video players for internal & external use
@@ -77,57 +107,51 @@ Varnish
     * Interfaced with partners & clients to develop a self-serve
 dashboard and analytics reporting tool
     * Mobile & responsive development for a wide range of devices
-    * Led team of 6-8 developers
+    * Led multiple teams of developers
 
 
   Nonfiction Studios
   : Lead Developer
-    __2007-2011__ 
+    __2007-2011__
 
     Architect, design and develop websites/web applications for various clients using web standards, PHP and Rails technologies.
 
     #### Summary of accomplishments:
 
-    * Ruby On Rails (2.x – 3) application development and deployment to a variety of OSes
+    * Ruby On Rails development and cross-platform deployment/troubleshooting
     * Maintained, enhanced and debugged custom MVC framework in PHP
     * Engaged with new clients and provided support for existing clients
-    * Utilized Subversion Version Control and Git Version Control
-    * Optimized and troubleshot sites receiving over 500,000 hits daily
     * Administered and deployed to multiple UNIX enviroments
-    * MySQL Database design, and optimization
     * Led small team of developers and designers
-    * Mac OSX environment
 
   Critical Mass
   : Lead Developer
-    __2003-2007__ 
+    __2003-2007__
 
     Develop interactive sites and applications for clients such as Rolex, Home Depot, Hyatt Hotels, Dell, DeVry, IKEA Canada,  SBC.
 
     #### Summary of accomplishments:
 
-    * Development of client websites and dynamic web applications 
+    * Development of client websites and dynamic web applications
     * JSP, Struts/Tiles, PHP, Prototype
     * Managed team of web developers and interfaced with designers
-    * Screening and Interviewing potential hires
-    * Conducted performance reviews
-    * AJAX / Remote Scripting (Unobtrusive JS)
-    * Cross-Device Awareness
-    * Database design/integration (Oracle) 
+    * Interviewing potential hires and conducted performance reviews
+    * Lead multi-locale internationalized front-end globally for Hyatt
+    * Advocated web standards and device aware (responsive) development
+    * Database design/integration (Oracle)
 
   Beautiful Code
   : Principal
-    __2001-Present__ 
+    __2001-Present__
 
     Freelance development & design of various client sites and open source
-projects 
+projects
 
     #### Summary of accomplishments:
 
-    * Development of client websites and dynamic web applications 
-    * Used Flash, PubSub, HTML5, CSS, Node
-    * Setup and maintained Ubuntu cloud servers 
-    * Explored new technologies including Ecommerce on Rails and Web
+    * Development of client websites and dynamic web applications
+    * Setup and maintained cloud servers (general devops)
+    * Explored new technologies and implemented solutions
 Audio
     * Mobile Design & Development
 
@@ -142,13 +166,13 @@ Audio
 * Multimedia Certificate
   : AMTC Calgary, Canada
 
-* 15yrs Web Experience
+* 20yrs Web Experience
   : Online/Books/Conferences
 
 ------
 
 ### Footer {#footer}
 
-Aaron Glenn -- [aaron@aaronglenn.ca](aaron@aaronglenn.ca) -- (415) 830-2411
+Aaron Glenn -- [ag@aaronglenn.ca](ag@aaronglenn.ca) -- (604) 653-7653
 
 ------
